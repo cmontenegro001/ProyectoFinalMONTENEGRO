@@ -1,0 +1,43 @@
+[
+  {
+    "id": "01",
+    "nombre": "Hamburguesa Simple",
+    "img": "https://images.pexels.com/photos/551991/pexels-photo-551991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 600
+  },
+
+  {
+    "id": "02",
+    "nombre": "Hamburguesa Bacon",
+    "img": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 1100
+  },
+
+  {
+    "id": "03",
+    "nombre": "Hamburguesa Pollo",
+    "img": "https://images.pexels.com/photos/1893557/pexels-photo-1893557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 950
+  },
+
+  {
+    "id": "04",
+    "nombre": "Hamburguesa 4 quesos",
+    "img": "https://images.pexels.com/photos/3738730/pexels-photo-3738730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 1150
+  },
+
+  {
+    "id": "05",
+    "nombre": "Hamburguesa Vegetariana",
+    "img": "https://images.pexels.com/photos/12325277/pexels-photo-12325277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 1200
+  },
+
+  {
+    "id": "06",
+    "nombre": "Papas Fritas",
+    "img": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "precio": 600
+  }
+]
